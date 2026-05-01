@@ -6,10 +6,10 @@ class Searchmonkey < Formula
   license "MIT"
 
   def install
-    bin.install "searchmonkey"
+    bin.install "Searchmonkey"
   end
 
   test do
-    system "#{bin}/searchmonkey", "--version"
+    system "#{bin}/Searchmonkey", "--version"
   end
 end
