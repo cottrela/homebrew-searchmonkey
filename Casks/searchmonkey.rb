@@ -1,6 +1,6 @@
 cask "searchmonkey" do
-  version "0.1.3"
-  sha256 "0e823fe7d9982432a612bd873aa78b81fc59e212416f3600d69a96702eddd8a7"
+  version "0.2.4"
+  sha256 "c77f39ce70e8bd977b1560c699c5af225c1d025881c90eea7f9f5098a18a638c"
 
   url "https://github.com/cottrela/searchmonkey-III/releases/download/v#{version}/searchmonkey_universal.app.tar.gz"
   name "Searchmonkey III"

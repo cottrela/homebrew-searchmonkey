@@ -1,2 +1,3 @@
 # homebrew-searchmonkey
-Brew install cottrela/searchmonkey/searchmonkey
+brew install --cask cottrela/searchmonkey/searchmonkey
+
